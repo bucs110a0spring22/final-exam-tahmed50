@@ -12,16 +12,20 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+https://zoo-animal-api.herokuapp.com/animals/rand, https://randomfox.ca/floof/
+
 
 Summary of Program:
+this program tells you a random facts about a random zoo animal and it shows how it looks and the second part of the program gives you an image of a random fox to brighten your day. 
 
 Most Challenging topic in the course:
+I found tutle very difficult
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+https://www.youtube.com/watch?v=hpc5jyVpUpw)
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ HI :D :D :D :D :D :D :D :D :D :D 
